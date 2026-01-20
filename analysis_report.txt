@@ -1,0 +1,29 @@
+CYBER SECURITY INTERNSHIP
+TASK 3: Networking Basics for Cyber Security
+
+Tool Used: Wireshark
+
+1. Introduction
+This task focuses on understanding basic networking concepts and analyzing network traffic using Wireshark.
+
+2. Packet Capture
+Live network traffic was captured using Wireshark by selecting the active Wi-Fi interface.
+
+3. Protocol Analysis
+- TCP: Reliable communication protocol
+- UDP: Fast but unreliable protocol
+- DNS: Resolves domain names to IP addresses
+- HTTP: Plain-text communication
+- HTTPS: Encrypted communication
+
+4. TCP Three-Way Handshake
+Observed SYN, SYN-ACK, and ACK packets which establish a TCP connection.
+
+5. Plain-text vs Encrypted Traffic
+HTTP traffic data was readable, whereas HTTPS traffic was encrypted and unreadable.
+
+6. DNS Analysis
+DNS queries revealed the domain names accessed during browsing.
+
+7. Conclusion
+This task improved understanding of how network communication works and highlighted the importance of encrypted traffic for security.

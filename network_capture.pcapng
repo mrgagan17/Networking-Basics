@@ -1,0 +1,8 @@
+Note on Packet Capture File:
+
+Due to system restrictions and privacy concerns, the packet capture file 
+(.pcapng) could not be attached. However, the task was performed using 
+Wireshark, and observations were recorded based on live traffic analysis 
+including TCP handshake, DNS queries, and HTTP/HTTPS traffic.
+
+The process and understanding are clearly documented in this report.
